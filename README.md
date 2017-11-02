@@ -8,8 +8,22 @@ These instructions will get you a copy of the project up and running on your loc
 What things you need to install the software and how to install them
 
 ```
-You will need Node.js to use this. Many different installers for yiour favorite OS are avaiable at Node's official website. 
-Gulp is installed via **npm install gulp-cli -g**
+You will need Node.js to use this. 
+Many different installers for your favorite OS are avaiable at Node's official website. 
+The Gulp command lines interface can be globally installed via npm install gulp-cli -g
+```
+
+### Installing
+Clone or download this repository to your local developement machine. Move to the root folder via console.
+
+Install all required node modules.
+```
+npm install
+```
+
+Compile your scss
+```
+gulp sass
 ```
 
 /*
