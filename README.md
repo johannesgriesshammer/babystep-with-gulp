@@ -10,8 +10,9 @@ What things you need to install the software and how to install them
 You will need [Node.js](https://nodejs.org/en/download/) installed. 
 Many different installers for your favorite OS are avaiable at Node's official website. 
 
+Install the Gulp CLI
 ```
-The Gulp command lines interface can be globally installed via npm install gulp-cli -g
+npm install gulp-cli -g
 ```
 
 ### Installing
