@@ -7,9 +7,10 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 What things you need to install the software and how to install them
 
-```
-You will need Node.js to use this. 
+You will need [Node.js](https://nodejs.org/en/download/) installed. 
 Many different installers for your favorite OS are avaiable at Node's official website. 
+
+```
 The Gulp command lines interface can be globally installed via npm install gulp-cli -g
 ```
 
